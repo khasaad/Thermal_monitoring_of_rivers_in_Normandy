@@ -9,9 +9,9 @@
 
 <p> The probes are attached to the roots of riparian trees, in a shaded position. They are installed at a depth that guarantees their complete immersion whatever the season. The temperature is measured every two hours. The probes used are HOBO® water Temp Pro v2 (U22-001). Their accuracy is +/- 0.2 ° C. Data can be read through two interfaces: optical and USB.</p>
 
-<ul>
-DREAL Normandie provides 2 raw data files:
 
+<p>DREAL Normandie provides 2 raw data files:</p>
+<ul>
 <li>a file on the measurement network with the geographical coordinates of the stations</li>
 <li>a file compiling the recorded measurements</li>
 </ul>
